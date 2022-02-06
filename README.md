@@ -4,3 +4,8 @@
 
 Creación de un notebook con Jupyter 
 Incluye funciones de ejemplo así como importación de librerias
+
+COMPLETADA
+
+## Cata #1
+En progreso
